@@ -2,6 +2,9 @@
 Api rest Sprign Boot Figuras
 
 **Ejemplo metodo POST**
+
+Mediante la url http://localhost:8080/figura se insertan los datos enviando
+los siguientes datos en formato JSON dependiendo el tipo de figura (circulo, rectangulo, triangulo, cuadrado)
 ```
 {
     "base": 12.5,
